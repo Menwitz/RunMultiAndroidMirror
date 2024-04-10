@@ -10,7 +10,7 @@
 - USB debugging enabled on all Android devices to be connected
 
 ## Installation
-1. Clone this repository to your local machine using `git clone https://github.com/<your-username>/RunMultiAndroidMirror.git`
+1. Clone this repository to your local machine using `git clone https://github.com/Menwitz/RunMultiAndroidMirror.git`
 2. Navigate to the cloned directory.
 3. Ensure that `adb` and `scrcpy` are in your system's PATH.
 
