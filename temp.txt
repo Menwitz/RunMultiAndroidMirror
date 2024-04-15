@@ -1,0 +1,3 @@
+List of devices attached
+23111FDF6004YQ	device
+
