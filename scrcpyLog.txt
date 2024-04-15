@@ -1,0 +1,9 @@
+[Mon Apr 15 09:56:14 EDT 2024] Starting new session
+Found device: 19011FDF6004GQ
+Found device: 19181FDF600FR0
+Found device: 1A161FDF6002KL
+Found device: 1A191FDF6006RL
+Found device: 1A201FDF60013H
+Found device: 1A251FDF600566
+Found device: 23091FDF6003FY
+Found device: 23111FDF6004YQ
