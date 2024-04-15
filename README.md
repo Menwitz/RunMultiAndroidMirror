@@ -8,6 +8,7 @@
 - ADB (Android Debug Bridge) installed and configured
 - `scrcpy` installed and accessible from the command line
 - USB debugging enabled on all Android devices to be connected
+- `brew install android-platform-tools scrcpy`
 
 ## Installation
 1. Clone this repository to your local machine using `git clone https://github.com/Menwitz/RunMultiAndroidMirror.git`
@@ -15,9 +16,20 @@
 3. Ensure that `adb` and `scrcpy` are in your system's PATH.
 
 ## Usage
-1. Connect your Android devices to the computer via USB.
-2. Run the `RunScrcpyForAllDevices.bat` script.
-3. The script will start `scrcpy` sessions for each connected device, applying the predefined settings.
+Windows
+1. Open Command Prompt.
+2. Navigate to the directory containing RunScrcpyForAllDevices.bat.
+3. Execute the script:
+   `RunScrcpyForAllDevices.bat`
+
+macOS
+1. Open Terminal.
+2. Navigate to the directory containing RunScrcpyForAllDevices.sh.
+3. Make the script executable:
+   `chmod +x RunScrcpyForAllDevices.sh`
+4. Execute the script
+   `./RunScrcpyForAllDevices.sh`
+
 
 ### Customization
 You can customize the script parameters to suit your needs. Open `RunScrcpyForAllDevices.bat` in a text editor and modify the `scrcpy` command line options as desired.
