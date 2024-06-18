@@ -1,1 +1,2 @@
-23111FDF6004YQ
+[Tue Apr 30 10:08:47 EDT 2024] Starting new session
+Found device: 19141FDF6001XA
